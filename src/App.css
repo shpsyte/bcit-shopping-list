@@ -50,15 +50,16 @@ table tbody tr td:nth-child(2)  {
 }
 
 table tbody tr td:nth-child(1) {
-  width: 150px;
+  width: 100px;
   color: rebeccapurple;
 }
 
 
-table tbody tr td:nth-child(3) {
-  width: 150px;
+table tbody tr td:nth-child(3), table tbody tr td:nth-child(4) {
+  width: 70px;
 }
 
-table tbody tr td:nth-child(4) {
-   width: 150px;
+
+table tbody tr td:nth-child(2)  {
+  padding-left: 20px;
 }
