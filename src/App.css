@@ -1,38 +1,64 @@
-.App {
-  text-align: center;
+table {
+  width: 100%;
+   background: rgb(248, 243, 243);
+   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+table, th, td {
+  border: 1px solid #dce3e8;
+  border-collapse: collapse;
+}
+table tbody tr {
+  height: 40px;
+  color: #3a3a3a
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+table tr:nth-child(even) {
+  background-color: #eee;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+table tr:nth-child(odd) {
+  background-color: #fff;
 }
 
-.App-link {
-  color: #61dafb;
+table tr.caption {
+  font-size: 16px;
+  color: #3a3a3a;
+  height: 40px;
+  line-height: 40px;
+  background: #dce3e8;
+  margin: 0 !important;
+  padding: 0;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+table tr.caption th:nth-child(4) {
+  font-size: 16px;
+  background: #07070799;
+
+
+}
+table tr th:nth-child(1), table tr th:nth-child(2),  table tr th:nth-child(3)  {
+   cursor: pointer;
+}
+
+table tbody tr td:nth-child(2)  {
+  text-align: left;
+}
+
+table tbody tr td:nth-child(1) {
+  width: 150px;
+  color: rebeccapurple;
+}
+
+
+table tbody tr td:nth-child(3) {
+  width: 150px;
+}
+
+table tbody tr td:nth-child(4) {
+   width: 150px;
 }

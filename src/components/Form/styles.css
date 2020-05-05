@@ -1,0 +1,13 @@
+
+form {
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex: 1;
+  background: #dce3e8;
+  padding: 30px;
+  margin-bottom: 16px;
+}
+
+

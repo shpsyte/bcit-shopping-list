@@ -1,0 +1,30 @@
+
+  button[type='submit'] {
+    width: 210px;
+    height: 40px;
+    background: #04d361;
+    border-radius: 0 5px 5px 0;
+    border: 0;
+    color: #fff;
+    font-weight: bold;
+    transition: background-color 0.2s;
+  }
+
+  button:hover {
+    background: #079145;
+  }
+
+
+  button.delete {
+    padding: 5px;
+    background: #962121;
+    border-radius: 5px;
+    border: 0;
+    color: #fff;
+    font-weight: bold;
+    transition: background-color 0.2s;
+  }
+
+  button.delete:hover {
+    background: rgb(73, 21, 21);
+  }
