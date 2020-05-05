@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bcit-shopping-list/precache-manifest.90e1a192f1472a55fee196e336923879.js"
+  "/bcit-shopping-list/precache-manifest.f596c047c8d394f431d8edc7d65b5039.js"
 );
 
 self.addEventListener('message', (event) => {

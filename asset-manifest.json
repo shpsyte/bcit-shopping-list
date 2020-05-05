@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bcit-shopping-list/static/css/main.e3897297.chunk.css",
+    "main.css": "/bcit-shopping-list/static/css/main.252d0d32.chunk.css",
     "main.js": "/bcit-shopping-list/static/js/main.e2fda5cb.chunk.js",
     "main.js.map": "/bcit-shopping-list/static/js/main.e2fda5cb.chunk.js.map",
     "runtime-main.js": "/bcit-shopping-list/static/js/runtime-main.cbb9be50.js",
@@ -8,15 +8,15 @@
     "static/js/2.b5b4886d.chunk.js": "/bcit-shopping-list/static/js/2.b5b4886d.chunk.js",
     "static/js/2.b5b4886d.chunk.js.map": "/bcit-shopping-list/static/js/2.b5b4886d.chunk.js.map",
     "index.html": "/bcit-shopping-list/index.html",
-    "precache-manifest.90e1a192f1472a55fee196e336923879.js": "/bcit-shopping-list/precache-manifest.90e1a192f1472a55fee196e336923879.js",
+    "precache-manifest.f596c047c8d394f431d8edc7d65b5039.js": "/bcit-shopping-list/precache-manifest.f596c047c8d394f431d8edc7d65b5039.js",
     "service-worker.js": "/bcit-shopping-list/service-worker.js",
-    "static/css/main.e3897297.chunk.css.map": "/bcit-shopping-list/static/css/main.e3897297.chunk.css.map",
+    "static/css/main.252d0d32.chunk.css.map": "/bcit-shopping-list/static/css/main.252d0d32.chunk.css.map",
     "static/js/2.b5b4886d.chunk.js.LICENSE.txt": "/bcit-shopping-list/static/js/2.b5b4886d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cbb9be50.js",
     "static/js/2.b5b4886d.chunk.js",
-    "static/css/main.e3897297.chunk.css",
+    "static/css/main.252d0d32.chunk.css",
     "static/js/main.e2fda5cb.chunk.js"
   ]
 }

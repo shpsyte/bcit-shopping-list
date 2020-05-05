@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d858938cf90baaea6fdc9a89d789dd9",
+    "revision": "548097c9b806b0a8b7d01774eb9f4f59",
     "url": "/bcit-shopping-list/index.html"
   },
   {
-    "revision": "1cf2f91336912acaf46e",
-    "url": "/bcit-shopping-list/static/css/main.e3897297.chunk.css"
+    "revision": "a86895f837dcc1166729",
+    "url": "/bcit-shopping-list/static/css/main.252d0d32.chunk.css"
   },
   {
     "revision": "a63e94f1118aedc0f656",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bcit-shopping-list/static/js/2.b5b4886d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1cf2f91336912acaf46e",
+    "revision": "a86895f837dcc1166729",
     "url": "/bcit-shopping-list/static/js/main.e2fda5cb.chunk.js"
   },
   {
